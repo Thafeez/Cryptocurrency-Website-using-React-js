@@ -8,4 +8,4 @@
 
 ## Thafeez
 
-MIT © [Piyush Agarwal ](https://github.com/Thafeez)
+MIT © [ Thafeez ](https://github.com/Thafeez)
