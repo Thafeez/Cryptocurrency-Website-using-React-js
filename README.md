@@ -6,6 +6,6 @@
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
-## Thafeez
+## Profile
 
-MIT © [ Thafeez ](https://github.com/Thafeez)
+[ Thafeez ](https://github.com/Thafeez)
