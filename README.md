@@ -9,3 +9,7 @@
 ## Profile
 
 [ Thafeez ](https://github.com/Thafeez)
+
+## Deployed using Netlify:
+
+https://watsonisite.netlify.app/
